@@ -17,16 +17,16 @@ Headphones 🎧
 
 #### 📁 Assets 
 
-Icons: https://remixicon.com/
-Fonts: https://fonts.google.com/
-GitHub: https://github.com/bedimcode
-ScrollReveal: https://scrollrevealjs.org/
-HSL color: https://www.w3schools.com/colors/colors_hsl.asp
+- Icons: https://remixicon.com/
+- Fonts: https://fonts.google.com/
+- GitHub: https://github.com/bedimcode
+- ScrollReveal: https://scrollrevealjs.org/
+- HSL color: https://www.w3schools.com/colors/colors_hsl.asp
 
 #### 📁 Images
 
-freepng - https://www.freepng.es/
-pngfind - https://www.pngfind.com/
+- freepng - https://www.freepng.es/
+- pngfind - https://www.pngfind.com/
 
 #### 📁 Preview do projeto
 
